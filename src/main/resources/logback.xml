@@ -1,0 +1,85 @@
+<configuration>
+    <!-- Task Alert Logger -->
+    <appender name="TaskAlertFile" class="ch.qos.logback.core.FileAppender">
+        <file>logs/task_alerts.log</file>
+        <append>true</append>
+        <immediateFlush>true</immediateFlush>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Preparation Reminder Logger -->
+    <appender name="PreparationReminderFile" class="ch.qos.logback.core.FileAppender">
+        <file>logs/preparation_reminders.log</file>
+        <append>true</append>
+        <immediateFlush>true</immediateFlush>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Event Day Alert Logger -->
+    <appender name="EventDayAlertFile" class="ch.qos.logback.core.FileAppender">
+        <file>logs/event_day_alerts.log</file>
+        <append>true</append>
+        <immediateFlush>true</immediateFlush>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Progress Check-In Logger -->
+    <appender name="ProgressCheckInFile" class="ch.qos.logback.core.FileAppender">
+        <file>logs/progress_check_in.log</file>
+        <append>true</append>
+        <immediateFlush>true</immediateFlush>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Issue Alert Logger -->
+    <appender name="IssueAlertFile" class="ch.qos.logback.core.FileAppender">
+        <file>logs/issue_alerts.log</file>
+        <append>true</append>
+        <immediateFlush>true</immediateFlush>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Logger for Task Alerts -->
+    <logger name="TaskAlertLogger" level="info" additivity="false">
+        <appender-ref ref="TaskAlertFile" />
+    </logger>
+
+    <!-- Logger for Preparation Reminders -->
+    <logger name="PreparationReminderLogger" level="info" additivity="false">
+        <appender-ref ref="PreparationReminderFile" />
+    </logger>
+
+    <!-- Logger for Event Day Alerts -->
+    <logger name="EventDayAlertLogger" level="info" additivity="false">
+        <appender-ref ref="EventDayAlertFile" />
+    </logger>
+
+    <!-- Logger for Progress Check-In -->
+    <logger name="ProgressCheckInLogger" level="info" additivity="false">
+        <appender-ref ref="ProgressCheckInFile" />
+    </logger>
+
+    <!-- Logger for Issue Alerts -->
+    <logger name="IssueAlertLogger" level="info" additivity="false">
+        <appender-ref ref="IssueAlertFile" />
+    </logger>
+
+    <!-- Root Logger -->
+    <root level="error">
+        <appender-ref ref="TaskAlertFile" />
+        <appender-ref ref="PreparationReminderFile" />
+        <appender-ref ref="EventDayAlertFile" />
+        <appender-ref ref="ProgressCheckInFile" />
+        <appender-ref ref="IssueAlertFile" />
+    </root>
+</configuration>
