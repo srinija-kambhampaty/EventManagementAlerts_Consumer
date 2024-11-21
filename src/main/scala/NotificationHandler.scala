@@ -4,6 +4,7 @@ import play.api.libs.json.Json
 import org.apache.kafka.clients.consumer.{ConsumerConfig, KafkaConsumer, ConsumerRecords, ConsumerRecord}
 import java.util.Properties
 import org.slf4j.LoggerFactory
+import config.Settings.KAFKA_BOOTSTRAP_SERVERS
 
 class NotificationHandler(taskProcessor: ActorRef) extends Actor {
 
@@ -12,7 +13,7 @@ class NotificationHandler(taskProcessor: ActorRef) extends Actor {
 
   // Kafka Consumer configuration
   private val consumerConfig = new Properties()
-  consumerConfig.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, config.Settings.kafkaBootstrapServers)
+  consumerConfig.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, KAFKA_BOOTSTRAP_SERVERS)
   consumerConfig.put(ConsumerConfig.GROUP_ID_CONFIG, config.Settings.kafkaGroupId)
   consumerConfig.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringDeserializer")
   consumerConfig.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringDeserializer")

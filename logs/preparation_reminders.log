@@ -1,32 +1,189 @@
-2024-11-15 11:01:49 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:01:49 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:05:04 - Raw message: {"id":10,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:05:04 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:05:04 - Raw message: {"id":11,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:05:04 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:14:36 - Raw message: {"id":10,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:14:36 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:14:36 - Raw message: {"id":11,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:14:36 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:20:50 - Raw message: {"id":10,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:20:50 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:20:50 - Raw message: {"id":11,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:20:50 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:28:34 - Raw message: {"id":10,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:28:35 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:28:35 - Raw message: {"id":11,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:28:35 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 11:28:35 - Raw message: {"id":12,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 11:28:35 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":10,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":11,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":12,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":13,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":14,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
-2024-11-15 16:19:01 - Raw message: {"id":15,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-16","status":"Pending"}
-2024-11-15 16:19:01 - Preparation Reminder: Task Decoration prep - design for Cherry wedding
+2024-11-19 02:18:59 - Raw message: {"id":1,"eventId":1,"teamId":1,"taskName":"food prep","description":"prepare menu for sweety wedding non veg","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'food prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'food prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'prepare menu for sweety wedding non veg'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":2,"eventId":2,"teamId":1,"taskName":"music prep","description":"prepare playlist for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'music prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'music prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'prepare playlist for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":3,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":4,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":5,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":6,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":7,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":8,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - Raw message: {"id":9,"eventId":2,"teamId":1,"taskName":"Decoration prep","description":"design for Cherry wedding","assignedDate":"2024-11-14","dueDate":"2024-11-20","status":"Pending"}
+2024-11-19 02:18:59 - 
+
+==================== Preparation Reminder ====================
+2024-11-19 02:18:59 - Subject: Reminder for Task Preparation - 'Decoration prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Team,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - This is a gentle reminder to prepare for the upcoming task 'Decoration prep'.
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Description: 'design for Cherry wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-20'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Please ensure all necessary preparations are completed on time.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Reminder
+2024-11-19 02:18:59 - ============================================================
+
+

@@ -1,3 +1,62 @@
-2024-11-15 14:44:00 - Issue Alert: Task food prep has a blocker. Immediate intervention required: vendor not pick up call
-2024-11-15 16:19:02 - Issue Alert: Task food prep has a blocker. Immediate intervention required: vendor not pick up call
-2024-11-15 16:19:02 - Other details of task Task(21,5,1,food prep,design for xyz wedding,2024-11-14,2024-11-15,Pending,None,None,None,Some(vendor not pick up call))
+2024-11-18 10:25:02 - 
+
+======================== Issue Alert =========================
+2024-11-18 10:25:02 - Subject: Immediate Intervention Required for Task 'food prep'
+2024-11-18 10:25:02 - ------------------------------------------------------------
+2024-11-18 10:25:02 - Dear Event Manager,
+2024-11-18 10:25:02 - 
+2024-11-18 10:25:02 - We have detected an issue with the task 'food prep'.
+2024-11-18 10:25:02 - Details of the Blocker:
+2024-11-18 10:25:02 -   - Blocker Description: vendor not pick up call
+2024-11-18 10:25:02 - 
+2024-11-18 10:25:02 - Immediate action is required to address this issue and ensure the task can proceed as planned.
+2024-11-18 10:25:02 - ------------------------------------------------------------
+2024-11-18 10:25:02 - Task Details:
+2024-11-18 10:25:02 -   - Task Name: 'food prep'
+2024-11-18 10:25:02 -   - Description: 'design for xyz wedding'
+2024-11-18 10:25:02 -   - Assigned Date: '2024-11-14'
+2024-11-18 10:25:02 -   - Due Date: '2024-11-15'
+2024-11-18 10:25:02 -   - Current Status: 'Pending'
+2024-11-18 10:25:02 - ------------------------------------------------------------
+2024-11-18 10:25:02 - End of Notification
+2024-11-18 10:25:02 - ============================================================
+
+
+2024-11-18 10:25:02 - 
+
+======================= Raw Task Data =======================
+2024-11-18 10:25:02 - Task(21,5,1,food prep,design for xyz wedding,2024-11-14,2024-11-15,Pending,None,None,None,Some(vendor not pick up call))
+2024-11-18 10:25:02 - ============================================================
+
+
+2024-11-19 02:18:59 - 
+
+======================== Issue Alert =========================
+2024-11-19 02:18:59 - Subject: Immediate Intervention Required for Task 'food prep'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Dear Event Manager,
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - We have detected an issue with the task 'food prep'.
+2024-11-19 02:18:59 - Details of the Blocker:
+2024-11-19 02:18:59 -   - Blocker Description: vendor not pick up call
+2024-11-19 02:18:59 - 
+2024-11-19 02:18:59 - Immediate action is required to address this issue and ensure the task can proceed as planned.
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - Task Details:
+2024-11-19 02:18:59 -   - Task Name: 'food prep'
+2024-11-19 02:18:59 -   - Description: 'design for xyz wedding'
+2024-11-19 02:18:59 -   - Assigned Date: '2024-11-14'
+2024-11-19 02:18:59 -   - Due Date: '2024-11-15'
+2024-11-19 02:18:59 -   - Current Status: 'Pending'
+2024-11-19 02:18:59 - ------------------------------------------------------------
+2024-11-19 02:18:59 - End of Notification
+2024-11-19 02:18:59 - ============================================================
+
+
+2024-11-19 02:18:59 - 
+
+======================= Raw Task Data =======================
+2024-11-19 02:18:59 - Task(21,5,1,food prep,design for xyz wedding,2024-11-14,2024-11-15,Pending,None,None,None,Some(vendor not pick up call))
+2024-11-19 02:18:59 - ============================================================
+
+
